@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-   "start": "ts-node src/server.ts",
+    "start": "ts-node src/server.ts",
     "dev": "nodemon src/server.ts"
   },
   "repository": {
@@ -24,6 +24,7 @@
     "@types/node": "^24.9.1",
     "body-parser": "^2.2.0",
     "express": "^5.1.0",
+    "express-validator": "^7.3.0",
     "ts-node": "^10.9.2",
     "typescript": "^5.9.3"
   },
