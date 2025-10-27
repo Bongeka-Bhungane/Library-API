@@ -3,3 +3,5 @@ export interface Author {
     name: string;
     bio?: string;
 }
+
+export const authors: Author[] = [];

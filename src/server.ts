@@ -10,7 +10,7 @@ app.use(express.json())
 app.use(bodyParser.json())
 
 app.use(loggerMiddleware)
-app.use("/v1/authors", router)
+app.use("/authors", router)
 
 app.listen(PORT, () => {
     console.log(`srver is running on http://localhost:${PORT}`);
