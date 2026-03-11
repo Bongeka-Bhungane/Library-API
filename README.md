@@ -1,3 +1,5 @@
+<img src="https://socialify.git.ci/Bongeka-Bhungane/Library-API/image?description=1&font=Raleway&language=1&name=1&owner=1&pattern=Circuit+Board&theme=Light" alt="Library-API" width="640" height="320" />
+
 # Library-API
 ## Project Overview
 
